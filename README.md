@@ -70,7 +70,7 @@
 	•	Animaciones sutiles al desplazarse por la página.
 	•	Íconos: Representativos para cada sección (ej.: un calendario para actividades, un mapa para ubicación).
 
-Tecnología a Utilizar:
+## Tecnología a Utilizar:
 
 Frontend:
 
