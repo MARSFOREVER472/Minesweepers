@@ -63,7 +63,7 @@
 	•	Secundarios: Blanco (limpieza visual) y gris oscuro (contraste).
 	•	Tipografía: Moderna y elegante, como Roboto o Lato.
 
-Elementos Visuales:
+### Elementos Visuales:
 
 	•	Imágenes:
 	•	Fotos profesionales de las ruinas de Huanchaca y robots.
