@@ -1,4 +1,4 @@
-# _Minesweepers_
+# **_Minesweepers_**
 
 **_Proyecto desde 0 con Minesweepers!_**
 
