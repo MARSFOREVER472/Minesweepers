@@ -56,7 +56,7 @@
 
 ## Diseño Visual:
 
-Estilo y Temática:
+### Estilo y Temática:
 
 	•	Colores:
 	•	Primarios: Azul metálico (tecnología) y dorado (innovación y patrimonio).
