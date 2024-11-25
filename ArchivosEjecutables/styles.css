@@ -39,7 +39,7 @@ body {
 .hero {
     background: url('huanchaca.jpg') no-repeat center center/cover;
     height: 80vh;
-    color: #fff;
+    color: #000000;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -68,7 +68,7 @@ section {
 }
 
 .sobre {
-    background-color: #f5f5f5;
+    background-color: #e67920;
 }
 
 .inscripcion form {
