@@ -1,3 +1,3 @@
 # Minesweepers
 
-_Proyecto desde 0 con Minesweepers!_
+**_Proyecto desde 0 con Minesweepers!_**
