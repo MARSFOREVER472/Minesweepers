@@ -1,0 +1,92 @@
+/* General */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+/* Navbar */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #001f3f;
+    padding: 10px 20px;
+}
+
+.navbar .logo {
+    color: #fff;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+}
+
+.nav-links li {
+    margin: 0 10px;
+}
+
+.nav-links a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+/* Hero Section */
+.hero {
+    background: url('huanchaca.jpg') no-repeat center center/cover;
+    height: 80vh;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.hero-content {
+    max-width: 600px;
+}
+
+.hero .cta {
+    background-color: #ff4136;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 18px;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+/* Secciones */
+section {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.sobre {
+    background-color: #f5f5f5;
+}
+
+.inscripcion form {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.inscripcion input, .inscripcion select, .inscripcion button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+/* Footer */
+footer {
+    background-color: #001f3f;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
