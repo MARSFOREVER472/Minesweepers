@@ -2,7 +2,7 @@
 
 ## **_Proyecto desde 0 con Minesweepers!_**
 
-Estructura de la Página Web:
+### Estructura de la Página Web:
 
 1. Home (Inicio):
 
