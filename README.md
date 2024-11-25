@@ -1,6 +1,6 @@
 # **_Minesweepers_**
 
-**_Proyecto desde 0 con Minesweepers!_**
+## **_Proyecto desde 0 con Minesweepers!_**
 
 Estructura de la Página Web:
 
