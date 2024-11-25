@@ -54,7 +54,7 @@
 	•	Información de contacto y soporte técnico.
 	•	Suscripción a boletines informativos.
 
-Diseño Visual:
+## Diseño Visual:
 
 Estilo y Temática:
 
