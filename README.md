@@ -19,6 +19,7 @@
 	•	Secciones Principales:
 
 	            - Cuenta regresiva: Un contador dinámico mostrando los días, horas, minutos y segundos hasta el evento.
+   
                     - Descripción breve: “El congreso se llevará a cabo del 5 al 8 de enero de 2025 en las emblemáticas ruinas de Huanchaca. Participa en talleres, 
                       conferencias y exhibiciones de los avances más innovadores en robótica.”
                     - Call to Action (CTA): Botones para inscribirse o iniciar sesión.
