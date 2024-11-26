@@ -13,6 +13,7 @@
 	•	Título: “Minesweeper 2025: Congreso Internacional de Robótica”.
 
 	•	Subtítulo: “Innovación, tecnología y cultura en el corazón de Antofagasta”.
+
 	•	Botón llamativo: “¡Inscríbete ahora!”
 	•	Secciones Principales:
 	•	Cuenta regresiva: Un contador dinámico mostrando los días, horas, minutos y segundos hasta el evento.
