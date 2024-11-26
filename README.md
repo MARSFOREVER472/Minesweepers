@@ -11,6 +11,7 @@
 	•	Imagen de fondo de las ruinas de Huanchaca iluminadas.
 
 	•	Título: “Minesweeper 2025: Congreso Internacional de Robótica”.
+
 	•	Subtítulo: “Innovación, tecnología y cultura en el corazón de Antofagasta”.
 	•	Botón llamativo: “¡Inscríbete ahora!”
 	•	Secciones Principales:
