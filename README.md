@@ -7,6 +7,7 @@
 1. Home (Inicio):
 
 	•	Encabezado Impactante:
+
 	•	Imagen de fondo de las ruinas de Huanchaca iluminadas.
 	•	Título: “Minesweeper 2025: Congreso Internacional de Robótica”.
 	•	Subtítulo: “Innovación, tecnología y cultura en el corazón de Antofagasta”.
@@ -16,7 +17,7 @@
 	•	Descripción breve: “El congreso se llevará a cabo del 5 al 8 de enero de 2025 en las emblemáticas ruinas de Huanchaca. Participa en talleres, conferencias y exhibiciones de los avances más innovadores en robótica.”
 	•	Call to Action (CTA): Botones para inscribirse o iniciar sesión.
 
-2. Menú de Navegación (Desplegable):
+3. Menú de Navegación (Desplegable):
 
 	•	Inicio: Regreso a la página principal.
 	•	Sobre el Congreso: Información detallada del evento, los organizadores y patrocinadores.
@@ -25,7 +26,7 @@
 	•	Miembros: Área exclusiva para usuarios inscritos, con acceso a contenido exclusivo.
 	•	Ubicación: Mapa interactivo y detalles de las Ruinas de Huanchaca.
 
-3. Inscripción:
+4. Inscripción:
 
 	•	Formulario interactivo:
 	•	Datos personales (nombre, correo, institución, país, etc.).
@@ -33,7 +34,7 @@
 	•	Opciones de pago (tarjeta, transferencia).
 	•	Confirmación automática por correo con un código QR de acceso.
 
-4. Cuenta de Miembros e Inscritos:
+5. Cuenta de Miembros e Inscritos:
 
 	•	Inicio de sesión/Registro:
 	•	Usuario y contraseña para acceder a:
@@ -41,14 +42,14 @@
 	•	Documentos de ponencias y materiales descargables.
 	•	Foro de preguntas y networking virtual.
 
-5. Calendario de Actividades:
+6. Calendario de Actividades:
 
 	•	Diseño interactivo y amigable:
 	•	Vista por días y horarios.
 	•	Talleres destacados, conferencias y paneles.
 	•	Opción para sincronizar con Google Calendar o Outlook.
 
-6. Footer (Pie de página):
+7. Footer (Pie de página):
 
 	•	Redes sociales del congreso (Instagram, Twitter, LinkedIn, etc.).
 	•	Información de contacto y soporte técnico.
