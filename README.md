@@ -29,7 +29,7 @@
 
 	•	Inicio: Regreso a la página principal.
 
-	•	Sobre el Congreso: Información detallada del evento, los organizadores y patrocinadores
+	•	Sobre el Congreso: Información detallada del evento, los organizadores y patrocinadores.
 
 	•	Programa: Acceso al calendario completo de actividades.
 
