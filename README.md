@@ -28,13 +28,14 @@
 3. Menú de Navegación (Desplegable):
 
 	•	Inicio: Regreso a la página principal.
+
 	•	Sobre el Congreso: Información detallada del evento, los organizadores y patrocinadores.
 	•	Programa: Acceso al calendario completo de actividades.
 	•	Inscripción: Formulario interactivo para registrarse.
 	•	Miembros: Área exclusiva para usuarios inscritos, con acceso a contenido exclusivo.
 	•	Ubicación: Mapa interactivo y detalles de las Ruinas de Huanchaca.
 
-4. Inscripción:
+5. Inscripción:
 
 	•	Formulario interactivo:
 	•	Datos personales (nombre, correo, institución, país, etc.).
@@ -42,7 +43,7 @@
 	•	Opciones de pago (tarjeta, transferencia).
 	•	Confirmación automática por correo con un código QR de acceso.
 
-5. Cuenta de Miembros e Inscritos:
+6. Cuenta de Miembros e Inscritos:
 
 	•	Inicio de sesión/Registro:
 	•	Usuario y contraseña para acceder a:
@@ -50,14 +51,14 @@
 	•	Documentos de ponencias y materiales descargables.
 	•	Foro de preguntas y networking virtual.
 
-6. Calendario de Actividades:
+7. Calendario de Actividades:
 
 	•	Diseño interactivo y amigable:
 	•	Vista por días y horarios.
 	•	Talleres destacados, conferencias y paneles.
 	•	Opción para sincronizar con Google Calendar o Outlook.
 
-7. Footer (Pie de página):
+8. Footer (Pie de página):
 
 	•	Redes sociales del congreso (Instagram, Twitter, LinkedIn, etc.).
 	•	Información de contacto y soporte técnico.
