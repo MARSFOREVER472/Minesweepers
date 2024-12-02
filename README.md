@@ -4,7 +4,7 @@
 
 ### **_Estructura de la Página Web:_**
 
-1. Home (Inicio):
+1. _Home (Inicio):_
 
 	•	Encabezado Impactante:
 
