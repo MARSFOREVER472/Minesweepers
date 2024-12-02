@@ -32,6 +32,7 @@
 	•	Sobre el Congreso: Información detallada del evento, los organizadores y patrocinadores
 
 	•	Programa: Acceso al calendario completo de actividades.
+
 	•	Inscripción: Formulario interactivo para registrarse.
 	•	Miembros: Área exclusiva para usuarios inscritos, con acceso a contenido exclusivo.
 	•	Ubicación: Mapa interactivo y detalles de las Ruinas de Huanchaca.
