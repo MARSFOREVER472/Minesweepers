@@ -63,43 +63,72 @@ body {
 
 /* Calendar section */
 
-.styled-table
-{
+/* Estilos de etiqueta*/
+body {
+    background-color: #daa413;
+  }
+  
+  table {
+    background: white;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 2%;
     border-collapse: collapse;
-    margin: 25px 0;
-    font-size: 1em;
-    font-family: sans-serif;
-    min-width: 450px;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
-}
-
-/* Header Grids */
-
-.styled-table thead tr
-{
-    background-color: #940000;
-    color: #e50900;
-    text-align: middle;
-}
-
-.styled-table th, .styled-table td
-{
-    padding: 12px, 15px;
-}
-
-.styled-table tbody tr {
-    border-bottom: 1px solid #dddddd;
-}
-
-.styled-table tbody tr:nth-of-type(even)
-{
-    background-color: #f3f3f3;
-}
-
-.styled-table tbody tr:last-of-type
-{
-    border-bottom: 2px solid #009879;
-}
+    text-align: center;
+  }
+  
+  th {
+    background-color: rgba(5, 5, 100, 95);
+    height: 35px;
+    border-bottom: 1px solid rgb(210, 220, 250);
+    color: rgb(120, 120, 120);
+  }
+  
+  td {
+    color: rgba(100, 100, 100, 60);
+    height: 30px;
+    border: 0.5px solid rgba(240, 240, 240, 10);
+  }
+  
+  tfoot {
+    font-weight: bold;
+  }
+  
+  /*Pseudo-clases*/
+  th:hover {
+    background-color: rgba(20, 20, 20, 90);
+  }
+  
+  tr:hover {
+    background-color: rgba(15, 25, 25, 90);
+  }
+  
+  /* Estilos de clases*/
+  .PrecioTotal:hover,
+  .CantidadTotal:hover {
+    color: rgb(230, 50, 50);
+  }
+  
+  .Cabecera {
+    background-color: rgba(5, 5, 100, 0.99);
+    border-radius: 4px;
+    height: 30px;
+    padding: 2em;
+    margin: 0 25%;
+    text-align: center;
+    color: white;
+  }
+  
+  a{
+    text-decoration: none;
+    color: white;
+    font-size: 14pt;
+  }
+  
+  footer {
+    margin-top: 40px;
+    text-align: center;
+  }
 
 /* Secciones */
 section {
@@ -125,7 +154,7 @@ section {
 
 /* Footer */
 footer {
-    background-color: #001f3f;
+    background-color: #ff5900;
     color: #fff;
     text-align: center;
     padding: 10px 0;
