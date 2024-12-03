@@ -112,8 +112,8 @@ body {
   .Cabecera {
     background-color: rgba(5, 5, 100, 0.99);
     border-radius: 10px;
-    height: 1px;
-    padding: 3rem;
+    height: 15px;
+    padding: 2rem;
     margin: 0 25%;
     text-align: center;
     color: white;
@@ -150,6 +150,18 @@ section {
     width: 100%;
     padding: 10px;
     margin-bottom: 15px;
+}
+
+.miembros form {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.miembros input, .miembros button {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
 }
 
 /* Footer */
