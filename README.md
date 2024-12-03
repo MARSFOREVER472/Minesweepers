@@ -46,7 +46,7 @@
 	        - Datos personales (nombre, correo, institución, país, etc.).
                 - Selección de actividades (talleres, conferencias, visitas guiadas).
                 - Opciones de pago (tarjeta, transferencia).
-	•	Confirmación automática por correo con un código QR de acceso.
+                - Confirmación automática por correo con un código QR de acceso.
 
 7. Cuenta de Miembros e Inscritos:
 
