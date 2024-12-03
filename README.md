@@ -42,12 +42,13 @@
 5. Inscripción:
 
 	•	Formulario interactivo:
+
 	•	Datos personales (nombre, correo, institución, país, etc.).
 	•	Selección de actividades (talleres, conferencias, visitas guiadas).
 	•	Opciones de pago (tarjeta, transferencia).
 	•	Confirmación automática por correo con un código QR de acceso.
 
-6. Cuenta de Miembros e Inscritos:
+7. Cuenta de Miembros e Inscritos:
 
 	•	Inicio de sesión/Registro:
 	•	Usuario y contraseña para acceder a:
@@ -55,14 +56,14 @@
 	•	Documentos de ponencias y materiales descargables.
 	•	Foro de preguntas y networking virtual.
 
-7. Calendario de Actividades:
+8. Calendario de Actividades:
 
 	•	Diseño interactivo y amigable:
 	•	Vista por días y horarios.
 	•	Talleres destacados, conferencias y paneles.
 	•	Opción para sincronizar con Google Calendar o Outlook.
 
-8. Footer (Pie de página):
+9. Footer (Pie de página):
 
 	•	Redes sociales del congreso (Instagram, Twitter, LinkedIn, etc.).
 	•	Información de contacto y soporte técnico.
