@@ -6,7 +6,7 @@
 
 1. **_Home (Inicio):_**
 
-	•	_Encabezado Impactante:_
+	•	**_Encabezado Impactante:_**
 
 	•	_Imagen de fondo de las ruinas de Huanchaca iluminadas._
 
