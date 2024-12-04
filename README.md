@@ -16,7 +16,7 @@
 
 	•	_Botón llamativo: “¡Inscríbete ahora!”_
 
-	•	Secciones Principales:
+	•	_Secciones Principales:_
 
 	        - Cuenta regresiva: Un contador dinámico mostrando los días, horas, minutos y segundos hasta el evento.
    
