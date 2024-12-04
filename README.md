@@ -12,7 +12,7 @@
 
 	•	**_Título: “Minesweeper 2025: Congreso Internacional de Robótica”._**
 
-	•	_Subtítulo: “Innovación, tecnología y cultura en el corazón de Antofagasta”._
+	•	**_Subtítulo: “Innovación, tecnología y cultura en el corazón de Antofagasta”._**
 
 	•	_Botón llamativo: “¡Inscríbete ahora!”_
 
