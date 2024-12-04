@@ -36,6 +36,7 @@ body {
 }
 
 /* Hero Section */
+
 .hero {
     background-image: url('https://www.monumentos.gob.cl/sites/default/files/styles/slide_monumentos/public/image-monumentos/00028_mh_02101_-27.jpg?itok=RIgONFB0');
     background-repeat: no-repeat;
@@ -45,7 +46,7 @@ body {
     align-items: center;
     justify-content: center;
     text-align: center;
-    color: #ffffff;
+    color: #000000;
 }
 
 .hero-content {
@@ -114,7 +115,7 @@ body {
   .Cabecera {
     background-color: rgba(5, 5, 100, 0.99);
     border-radius: 10px;
-    height: 15px;
+    height: 50px;
     padding: 2rem;
     margin: 0 25%;
     text-align: center;
@@ -140,6 +141,7 @@ section {
 
 .sobre {
     background-color: #e67920;
+    text-align: left;
 }
 
 .inscripcion form {
