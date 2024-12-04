@@ -8,7 +8,7 @@
 
 	•	**_Encabezado Impactante:_**
 
-	•	_Imagen de fondo de las ruinas de Huanchaca iluminadas._
+	•	**_Imagen de fondo de las ruinas de Huanchaca iluminadas._**
 
 	•	_Título: “Minesweeper 2025: Congreso Internacional de Robótica”._
 
