@@ -6,17 +6,17 @@
 
 1. **_Home (Inicio):_**
 
-	•	_Encabezado Impactante:_
+	•	**_Encabezado Impactante:_**
 
-	•	_Imagen de fondo de las ruinas de Huanchaca iluminadas._
+	•	**_Imagen de fondo de las ruinas de Huanchaca iluminadas._**
 
-	•	_Título: “Minesweeper 2025: Congreso Internacional de Robótica”._
+	•	**_Título: “Minesweeper 2025: Congreso Internacional de Robótica”._**
 
-	•	_Subtítulo: “Innovación, tecnología y cultura en el corazón de Antofagasta”._
+	•	**_Subtítulo: “Innovación, tecnología y cultura en el corazón de Antofagasta”._**
 
-	•	_Botón llamativo: “¡Inscríbete ahora!”_
+	•	**_Botón llamativo: “¡Inscríbete ahora!”_**
 
-	•	_Secciones Principales:_
+	•	**_Secciones Principales:_**
 
 	        - Cuenta regresiva: Un contador dinámico mostrando los días, horas, minutos y segundos hasta el evento.
    
