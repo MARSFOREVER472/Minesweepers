@@ -14,7 +14,7 @@
 
 	•	**_Subtítulo: “Innovación, tecnología y cultura en el corazón de Antofagasta”._**
 
-	•	_Botón llamativo: “¡Inscríbete ahora!”_
+	•	**_Botón llamativo: “¡Inscríbete ahora!”_**
 
 	•	_Secciones Principales:_
 
