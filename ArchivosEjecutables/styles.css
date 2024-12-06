@@ -140,14 +140,18 @@ section {
 }
 
 .sobre {
-    background-color: #e67920;
-    text-align: left;
+  background-image: url('https://www.esneca.com/wp-content/uploads/brazo-robotico.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  text-align: left;
+  color: #ec0909;
 }
 
 .inscripcion form {
-    max-width: 400px;
-    margin: 0 auto;
-    text-align: left;
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: left;
 }
 
 .inscripcion input, .inscripcion select, .inscripcion button {
