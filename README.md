@@ -33,7 +33,7 @@
 
 	•	**_Programa: Acceso al calendario completo de actividades._**
 
-	•	Inscripción: Formulario interactivo para registrarse.
+	•	_Inscripción: Formulario interactivo para registrarse._
 
 	•	Miembros: Área exclusiva para usuarios inscritos, con acceso a contenido exclusivo.
 
