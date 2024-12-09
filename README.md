@@ -25,7 +25,7 @@
    
                     - Call to Action (CTA): Botones para inscribirse o iniciar sesión.
 
-3. _Menú de Navegación (Desplegable):_
+3. **_Menú de Navegación (Desplegable):_**
 
 	•	Inicio: Regreso a la página principal.
 
