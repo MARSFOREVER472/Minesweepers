@@ -37,7 +37,7 @@
 
 	•	**_Miembros: Área exclusiva para usuarios inscritos, con acceso a contenido exclusivo._**
 
-	•	Ubicación: Mapa interactivo y detalles de las Ruinas de Huanchaca.
+	•	_Ubicación: Mapa interactivo y detalles de las Ruinas de Huanchaca._
 
 5. Inscripción:
 
