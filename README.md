@@ -29,7 +29,7 @@
 
 	•	**_Inicio: Regreso a la página principal._**
 
-	•	_Sobre el Congreso: Información detallada del evento, los organizadores y patrocinadores._
+	•	**_Sobre el Congreso: Información detallada del evento, los organizadores y patrocinadores._**
 
 	•	Programa: Acceso al calendario completo de actividades.
 
