@@ -31,7 +31,7 @@
 
 	•	**_Sobre el Congreso: Información detallada del evento, los organizadores y patrocinadores._**
 
-	•	Programa: Acceso al calendario completo de actividades.
+	•	_Programa: Acceso al calendario completo de actividades._
 
 	•	Inscripción: Formulario interactivo para registrarse.
 
