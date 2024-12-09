@@ -27,7 +27,7 @@
 
 3. **_Menú de Navegación (Desplegable):_**
 
-	•	Inicio: Regreso a la página principal.
+	•	_Inicio: Regreso a la página principal._
 
 	•	Sobre el Congreso: Información detallada del evento, los organizadores y patrocinadores.
 
