@@ -39,7 +39,7 @@
 
 	•	**_Ubicación: Mapa interactivo y detalles de las Ruinas de Huanchaca._**
 
-5. _Inscripción:_
+5. **_Inscripción:_**
 
 	•	Formulario interactivo:
 
