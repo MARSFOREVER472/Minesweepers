@@ -25,23 +25,23 @@
    
                     - Call to Action (CTA): Botones para inscribirse o iniciar sesión.
 
-3. Menú de Navegación (Desplegable):
+3. **_Menú de Navegación (Desplegable):_**
 
-	•	Inicio: Regreso a la página principal.
+	•	**_Inicio: Regreso a la página principal._**
 
-	•	Sobre el Congreso: Información detallada del evento, los organizadores y patrocinadores.
+	•	**_Sobre el Congreso: Información detallada del evento, los organizadores y patrocinadores._**
 
-	•	Programa: Acceso al calendario completo de actividades.
+	•	**_Programa: Acceso al calendario completo de actividades._**
 
-	•	Inscripción: Formulario interactivo para registrarse.
+	•	**_Inscripción: Formulario interactivo para registrarse._**
 
-	•	Miembros: Área exclusiva para usuarios inscritos, con acceso a contenido exclusivo.
+	•	**_Miembros: Área exclusiva para usuarios inscritos, con acceso a contenido exclusivo._**
 
-	•	Ubicación: Mapa interactivo y detalles de las Ruinas de Huanchaca.
+	•	**_Ubicación: Mapa interactivo y detalles de las Ruinas de Huanchaca._**
 
-5. Inscripción:
+5. **_Inscripción:_**
 
-	•	Formulario interactivo:
+	•	**_Formulario interactivo:_**
 
 	        - Datos personales (nombre, correo, institución, país, etc.).
                 - Selección de actividades (talleres, conferencias, visitas guiadas).
