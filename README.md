@@ -41,7 +41,7 @@
 
 5. **_Inscripción:_**
 
-	•	Formulario interactivo:
+	•	_Formulario interactivo:_
 
 	        - Datos personales (nombre, correo, institución, país, etc.).
                 - Selección de actividades (talleres, conferencias, visitas guiadas).
