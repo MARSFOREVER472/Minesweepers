@@ -48,7 +48,7 @@
                 - Opciones de pago (tarjeta, transferencia).
                 - Confirmación automática por correo con un código QR de acceso.
 
-7. _Cuenta de Miembros e Inscritos:_
+7. **_Cuenta de Miembros e Inscritos:_**
 
 		Inicio de sesión/Registro:
 
