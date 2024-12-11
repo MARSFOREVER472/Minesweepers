@@ -56,7 +56,7 @@
 
 	       •	Certificados digitales de participación.
 	       •	Documentos de ponencias y materiales descargables.
-	•	Foro de preguntas y networking virtual.
+	       •	Foro de preguntas y networking virtual.
 
 9. Calendario de Actividades:
 
