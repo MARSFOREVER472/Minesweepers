@@ -54,7 +54,7 @@
 
 		Usuario y contraseña para acceder a:
 
-	•	Certificados digitales de participación.
+	       •	Certificados digitales de participación.
 	•	Documentos de ponencias y materiales descargables.
 	•	Foro de preguntas y networking virtual.
 
