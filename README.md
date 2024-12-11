@@ -50,7 +50,7 @@
 
 7. Cuenta de Miembros e Inscritos:
 
-	•	Inicio de sesión/Registro:
+		Inicio de sesión/Registro:
 
 	•	Usuario y contraseña para acceder a:
 
