@@ -53,6 +53,7 @@
 	•	Inicio de sesión/Registro:
 
 	•	Usuario y contraseña para acceder a:
+
 	•	Certificados digitales de participación.
 	•	Documentos de ponencias y materiales descargables.
 	•	Foro de preguntas y networking virtual.
