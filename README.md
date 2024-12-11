@@ -51,19 +51,20 @@
 7. Cuenta de Miembros e Inscritos:
 
 	•	Inicio de sesión/Registro:
+
 	•	Usuario y contraseña para acceder a:
 	•	Certificados digitales de participación.
 	•	Documentos de ponencias y materiales descargables.
 	•	Foro de preguntas y networking virtual.
 
-8. Calendario de Actividades:
+9. Calendario de Actividades:
 
 	•	Diseño interactivo y amigable:
 	•	Vista por días y horarios.
 	•	Talleres destacados, conferencias y paneles.
 	•	Opción para sincronizar con Google Calendar o Outlook.
 
-9. Footer (Pie de página):
+10. Footer (Pie de página):
 
 	•	Redes sociales del congreso (Instagram, Twitter, LinkedIn, etc.).
 	•	Información de contacto y soporte técnico.
