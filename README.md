@@ -61,11 +61,12 @@
 9. Calendario de Actividades:
 
 	•	Diseño interactivo y amigable:
+
 	•	Vista por días y horarios.
 	•	Talleres destacados, conferencias y paneles.
 	•	Opción para sincronizar con Google Calendar o Outlook.
 
-10. Footer (Pie de página):
+11. Footer (Pie de página):
 
 	•	Redes sociales del congreso (Instagram, Twitter, LinkedIn, etc.).
 	•	Información de contacto y soporte técnico.
