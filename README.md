@@ -71,6 +71,7 @@
 11. Footer (Pie de página):
 
 	•	Redes sociales del congreso (Instagram, Twitter, LinkedIn, etc.).
+
 	•	Información de contacto y soporte técnico.
 	•	Suscripción a boletines informativos.
 
