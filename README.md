@@ -65,6 +65,7 @@
 	•	Vista por días y horarios.
 
 	•	Talleres destacados, conferencias y paneles.
+
 	•	Opción para sincronizar con Google Calendar o Outlook.
 
 11. Footer (Pie de página):
